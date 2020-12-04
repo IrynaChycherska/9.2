@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ira\source\repos\9.2\9.2\Source.cpp(41,7): warning C4101: 'filename': unreferenced local variable
+C:\Users\Ira\source\repos\9.2\9.2\Source.cpp(36,9): warning C4101: 'proc': unreferenced local variable
+C:\Users\Ira\source\repos\9.2\9.2\Source.cpp(96,15): warning C4101: 'kurs': unreferenced local variable
+  9.2.vcxproj -> C:\Users\Ira\source\repos\9.2\Debug\9.2.exe
